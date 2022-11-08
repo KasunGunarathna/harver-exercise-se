@@ -1,3 +1,4 @@
 # harver-exercise-se
-# npm install
-# npm start
+# 1) Please rename .env.example file to .env 
+# 2) npm install
+# 3) npm start
